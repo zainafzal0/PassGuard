@@ -15,12 +15,12 @@ PassGuard is an web application that allows users to register for an account and
 
 ### Homepage
 
-<img src="https://github.com/zainafzal0/PassGuard/tree/master/images/home.png" alt="home_page" width="500"/>
+<img src="https://github.com/zainafzal0/PassGuard/blob/master/images/home.png" alt="home_page" width="500"/>
 
 ### Passwords Page
 
-<img src="https://github.com/zainafzal0/PassGuard/tree/master/images/sites.png" alt="sites" width="500"/>
+<img src="https://github.com/zainafzal0/PassGuard/blob/master/images/sites.png" alt="sites" width="500"/>
 
 ### Credit Card Page
 
-<img src="https://github.com/zainafzal0/PassGuard/tree/master/images/cards.png" alt="credit_page" width="500"/>
+<img src="https://github.com/zainafzal0/PassGuard/blob/master/images/cards.png" alt="credit_page" width="500"/>
